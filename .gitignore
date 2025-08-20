@@ -1,4 +1,3 @@
-*.log
-.DS_Store
-node_modules/
-vendor/
+git branch -M main
+git remote add origin https://github.com/Deven-888/website.git
+git push -u origin main
